@@ -2,8 +2,8 @@
 
 # @Title infraProvision.sh
 # @Description Script Para Provisionamento de Projetos Terraform System Manager
-# @Author Danilo - The Guardians
-# @Licence Copyright (C) C6Bank - All Rights Reserved
+# @Author Danilo 
+# @Licence Copyright (C) All Rights Reserved
 
 # @Requirements zsh v5.8+
 # @Version 2.2
